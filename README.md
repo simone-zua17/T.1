@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -36,6 +36,6 @@
 </head>
 <body>
     <h1>ZUN´S FM STYLE</h1>
-    <p>Este é um parágrafo formatado com CSS.</p>
+    <p>MODA E ESTILOS ÚNICOS.</p>
 </body>
 </html>
